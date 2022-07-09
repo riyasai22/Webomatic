@@ -1,0 +1,38 @@
+.outer-container {
+  /* position: relative; */
+}
+.main-container {
+  width: calc(100vw - 220px);
+  height: calc(100vh - 60px);
+  left: 220px;
+  position: fixed;
+  top: 60px;
+  padding: 40px;
+  background-color: var(--primary-light);
+}
+.form-container {
+  display: flex;
+  flex-direction: row;
+  height: 90%;
+}
+.title-n-btn {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  position: relative;
+  margin: 10px 0px;
+}
+.title-n-btn h1 {
+  justify-self: center;
+}
+.title-n-btn .btn {
+  position: absolute;
+  right: 0px;
+  justify-self: end;
+}
+@media screen and (max-width: 760px) {
+  .main-container {
+    left: 12%;
+    width: calc(100vw - 12%);
+  }
+}

@@ -1,0 +1,68 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500;600;700&family=Open+Sans:wght@300;400;500;600;700&family=Poppins:wght@300;400;500;600;700&display=swap");
+:root {
+  /*****light*****/
+
+  /*for screen bg*/
+  --primary-light: #f0f5f9;
+  /*for main title*/
+  --title-light: #424242;
+  /*for lighter text*/
+  --title-sec-light: #808080;
+  /* for sidebar*/
+  --theme-light: #5866db;
+  /* for table headers */
+  --theme-sec-light: #858fe3;
+  /*for add new buttons */
+  --btn-light: #2e78cf;
+  /*for filter/other buttons */
+  --btn-theme-light: #8893ea;
+
+  /*****dark*****/
+
+  --primary-dark: #232325;
+  --title-dark: #ffffff;
+  --theme-dark: #0d0d0d;
+  --theme-sec-dark: #2a2b34;
+  --btn-dark: #195caa;
+  --btn-theme-dark: #273756;
+
+  /*****other*****/
+  --edit-green: #178c38;
+  --red: #ff8b84;
+  --dark-red: #9f332c;
+
+  --white: #ffffff;
+  --black: #000000;
+  --purple: #8893ea;
+
+  /*****text******/
+  --subheader-color-light: #505e79;
+  --subheader-color-dark: #7a96cc;
+  --description-color: #838c9e;
+}
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+a {
+  text-decoration: none;
+}
+
+::-webkit-scrollbar {
+  width: 6px;
+  background: #ffffff;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+  box-shadow: inset 0 0 5px #a9a9a9;
+  border-radius: 10px;
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background: #525050;
+  border-radius: 10px;
+}

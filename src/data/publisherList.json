@@ -1,0 +1,134 @@
+{
+    "publisherList":[
+      {
+        "id":"mb",
+        "img":"/img/image1.png",
+        "bigImg":"/img/image1b.png",
+        "name":"Morning Brew",
+        "tag":"Business",
+        "userCount":"16K+",
+        "shortDesc":"Got five minutes? We can make you smarter.",
+        "longDesc":"Morning Brew is the media company redefining the business news landscape through approachable, digestible—and not to brag—downright funny content. Across newsletters, podcasts, social media, and events, we reach an audience of over 3 million future and current business leaders.",
+        "featured":[
+          {
+              "id":1000,
+              "img":"/img/featured/image1.png",
+              "title":"HR Brew",
+              "frequency":"DAILY",
+              "checked":1,
+              "desc":"Sentence is challenging. HR News doesnt have to be! HR Brew keeps you effective in this fast changing  business world."
+          },
+          {
+              "id":1001,
+              "img":"/img/featured/image2.png",
+              "title":"Retail Brew",
+              "frequency":"WEEKLY",
+              "checked":1,
+              "desc":"Stay up to date on the retail industry. Seasonal Discounts, Curated Collections and New Products in the marketplace."
+          },
+          {
+              "id":1002,
+              "img":"/img/featured/image1.png",
+              "title":"HR Brew",
+              "frequency":"DAILY",
+              "checked":1,
+              "desc":"My is challenging. HR News doesnt have to be! HR Brew keeps you effective in this fast changing  business world."
+          },
+          {
+              "id":1003,
+              "img":"/img/featured/image1.png",
+              "title":"HR Brew",
+              "frequency":"DAILY",
+              "checked":1,
+              "desc":"Name is challenging. HR News doesnt have to be! HR Brew keeps you effective in this fast changing  business world."
+          },
+          {
+              "id":1004,
+              "img":"/img/featured/image2.png",
+              "title":"Retail Brew",
+              "frequency":"WEEKLY",
+              "checked":1,
+              "desc":"Stay up to date on the retail industry. Seasonal Discounts, Curated Collections and New Products in the marketplace."
+          }
+        ]
+      },
+      {
+        "id":"ps",
+        "img":"/img/image2.png",
+        "name":"Mostly Sane",
+        "tag":"Design",
+        "userCount":"20K+",
+        "shortDesc":"Access 100s of Tutorials & Templates to Help You Make What You Want. Join Now! ",
+        "longDesc":"In the context of branding, a tagline is a memorable motto or phrase that’s designed to serve as a permanent expression of your company’s greater purpose and mission. Taglines are long-lasting, instantly recognizable with your brand and have the goal of both attracting customers & remaining top of mind with your existing audience.",
+        "featured":[
+          {
+              "img":"/img/featured/image1.png",
+              "title":"HR Brew",
+              "frequency":"DAILY",
+              "checked":1,
+              "desc":"Smile is challenging. HR News doesnt have to be! HR Brew keeps you effective in this fast changing  business world."
+          },
+          {
+              "img":"/img/featured/image2.png",
+              "title":"Retail Brew",
+              "frequency":"WEEKLY",
+              "checked":1,
+              "desc":"Spark up to date on the retail industry. Seasonal Discounts, Curated Collections and New Products in the marketplace."
+          },
+          {
+              "img":"/img/featured/image1.png",
+              "title":"HR Brew",
+              "frequency":"DAILY",
+              "checked":1,
+              "desc":"Enchant is challenging. HR News doesnt have to be! HR Brew keeps you effective in this fast changing  business world."
+          },
+          {
+              "img":"/img/featured/image1.png",
+              "title":"HR Brew",
+              "frequency":"DAILY",
+              "checked":1,
+              "desc":"Monitor is challenging. HR News doesnt have to be! HR Brew keeps you effective in this fast changing  business world."
+          },
+          {
+              "img":"/img/featured/image2.png",
+              "title":"Retail Brew",
+              "frequency":"WEEKLY",
+              "checked":1,
+              "desc":"Elongate up to date on the retail industry. Seasonal Discounts, Curated Collections and New Products in the marketplace."
+          }
+        ]
+      },
+      {
+        "id":"btf",
+        "img":"/img/image3.png",
+        "name":"Below the Fold",
+        "tag":"Social",
+        "userCount":"12K+",
+        "shortDesc":"Expand your world with us.",
+        "longDesc":"A weekly email sharing news you aren't hearing anywhere else. We keep you informed on the stories that don't make it to the front page, for free."
+  
+      },
+      {
+        "id":"kt",
+        "name":"Khaleej Times",
+        "tag":"News",
+        "userCount":"15K+",
+        "path":"/newsletter/kt"
+  
+      },
+      {
+        "id":"fu",
+        "name":"Food Updates",
+        "tag":"Food",
+        "userCount":"20K+"
+      },
+      {
+        "id":"ti",
+        "name":"TED Ideas",
+        "tag":"Social",
+        "userCount":"16K+"
+      }
+    ]
+  }
+  
+  

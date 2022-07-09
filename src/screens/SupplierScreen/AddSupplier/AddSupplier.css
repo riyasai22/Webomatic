@@ -1,0 +1,14 @@
+.form-group {
+  width: 100%;
+  padding: 30px;
+  height: 100%;
+  margin: 20px;
+  background-color: #fcfcfc;
+  box-shadow: 0px 5px 10px rgba(0, 0, 0, 0.15);
+  display: none;
+  flex-wrap: wrap;
+  overflow-y: scroll;
+}
+.form-group.show {
+  display: flex;
+}

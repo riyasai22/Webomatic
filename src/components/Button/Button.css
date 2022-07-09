@@ -1,0 +1,43 @@
+.btn {
+  outline: none;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: none;
+  text-decoration: none;
+  padding: 9px 18px;
+  font-size: 12px;
+  font-weight: 500;
+  font-family: "Poppins";
+  letter-spacing: 1px;
+  cursor: pointer;
+  min-width: 100px;
+}
+.btn-primary {
+  background-color: var(--btn-light);
+  color: white;
+  border: 1px solid transparent;
+  transition: 0.3s;
+}
+.btn-cancel {
+  background-color: #333;
+  color: white;
+  border: 1px solid transparent;
+  transition: 0.3s;
+}
+.btn-blank {
+  background-color: transparent;
+  color: #7f7699;
+  letter-spacing: 0px;
+  border: 1px solid transparent;
+}
+.btn-secondary {
+  background-color: var(--btn-theme-light);
+  color: white;
+}
+.btn:hover {
+  background-color: aliceblue;
+  border: 1px solid var(--btn-light);
+  color: var(--btn-light);
+  font-weight: 600;
+}
